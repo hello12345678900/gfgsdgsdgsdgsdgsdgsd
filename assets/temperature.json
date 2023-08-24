@@ -1,0 +1,23 @@
+{
+	"author": "The Weatherman",
+	"month": ["januar", "februar", "marts", "april", "maj", "juni", "juli"],
+
+	  "temperature":[
+		{
+		"year": "2018",
+		"averageTemperature": [3, 4, 5, 11, 20, 17, 23]
+	  },
+
+	  {
+		"year": "2019",
+		"averageTemperature": [2, 5, 5, 12, 13, 20, 12]
+	  },
+
+	  {
+		"year": "2020",
+		"averageTemperature": [12, 8, 2, 14, 17, 29, 35]
+	  }
+
+	],
+	"iconType": ["cold", "cold", "cold", "notThatCold", "nice", "hot", "hot"]
+  }
